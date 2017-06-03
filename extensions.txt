@@ -1,0 +1,9 @@
+.com
+.net
+.club
+.io
+.biz
+.org
+.edu
+.info
+.me
